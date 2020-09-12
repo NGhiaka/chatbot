@@ -1,0 +1,40 @@
+* show all the accounts.
++ Your balance is $xxx
+* want to check my acct bal
++ Your balance is $xxx
+* what is my account balance
++ Your balance is $xxx
+* what is my account balance
++ Your balance is $xxx
+* whats the balance on my account
++ Your balance is $xxx
+* account bal
++ Your balance is $xxx
+* account balance
++ Your balance is $xxx
+* balance in my account
++ Your balance is $xxx
+* credit card balance
++ Your balance is $xxx
+* list down my accounts
++ Your balance is $xxx
+* show all the accounts
++ You have $xxx in this account
+* want to check my acct bal
++ You have $xxx in this account
+* what is my account balance
++ You have $xxx in this account
+* what is my account balance
++ You have $xxx in this account
+* whats the balance on my account
++ You have $xxx in this account
+* account bal
++ You have $xxx in this account
+* account balance
++ You have $xxx in this account
+* balance in my account
++ You have $xxx in this account
+* credit card balance
++ You have $xxx in this account
+* list down my accounts
++ You have $xxx in this account
